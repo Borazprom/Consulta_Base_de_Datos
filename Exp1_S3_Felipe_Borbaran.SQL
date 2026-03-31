@@ -288,7 +288,7 @@ INSERT INTO comuna VALUES (
 
 INSERT INTO comuna VALUES (
   seq_com.NEXTVAL,
-  '�u�oa'
+  'ñuñoa'
 );
 
 INSERT INTO comuna VALUES (
@@ -308,7 +308,7 @@ INSERT INTO comuna VALUES (
 
 INSERT INTO comuna VALUES (
   seq_com.NEXTVAL,
-  'Maip�'
+  'Maipú'
 );
 
 INSERT INTO comuna VALUES (
@@ -328,7 +328,7 @@ INSERT INTO comuna VALUES (
 
 INSERT INTO comuna VALUES (
   seq_com.NEXTVAL,
-  'Pe�alol�n'
+  'Peñalolén'
 );
 
 INSERT INTO comuna VALUES (
@@ -343,7 +343,7 @@ INSERT INTO comuna VALUES (
 
 INSERT INTO comuna VALUES (
   seq_com.NEXTVAL,
-  'Estaci�n Central'
+  'Estación Central'
 );
 
 INSERT INTO comuna VALUES (
@@ -438,7 +438,7 @@ INSERT INTO comuna VALUES (
 
 INSERT INTO comuna VALUES (
   seq_com.NEXTVAL,
-  'San Ram�n'
+  'San Ramón'
 );
 
 INSERT INTO comuna VALUES (
@@ -453,17 +453,17 @@ INSERT INTO comuna VALUES (
 
 INSERT INTO comuna VALUES (
   seq_com.NEXTVAL,
-  'Alhu�'
+  'Alhué'
 );
 
 INSERT INTO comuna VALUES (
   seq_com.NEXTVAL,
-  'Mar�a Pinto'
+  'María Pinto'
 );
 
 INSERT INTO comuna VALUES (
   seq_com.NEXTVAL,
-  'Curacav�'
+  'Curacaví'
 );
 
 INSERT INTO comuna VALUES (
@@ -488,7 +488,7 @@ INSERT INTO comuna VALUES (
 
 INSERT INTO comuna VALUES (
   seq_com.NEXTVAL,
-  'Pe�aflor'
+  'Peñaflor'
 );
 
 INSERT INTO comuna VALUES (
